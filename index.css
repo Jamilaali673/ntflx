@@ -1,0 +1,133 @@
+#juu{
+    display: flex;
+    justify-content: space-between;
+}
+img{
+    display: flex;
+}
+.story{
+    display: flex;
+    justify-content: space-between;
+}
+.pics{
+    display: flex;
+}
+button{
+    fill color: red;
+
+}
+.pics2{
+    display: flex;
+}
+.pics3{
+    display: flex;
+}
+.but{
+    background-color: red;
+    color: white;
+    padding-bottom: 5px;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    margin: 10px;
+}
+.me{
+    margin: 50px;
+}
+body{
+ background-image:linear-gradient(black,rgb(73, 4, 4));
+}
+.net2{
+    display: flex;
+    justify-content: space-between;
+}
+.button{
+    background-color: red;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.scroll{
+    display: flex;
+}
+.image{
+    position: relative;
+    left: 500px;
+}
+.buu{
+    color: white;
+    background-color: red;p
+}
+.p{
+    display:flex;
+}
+.tick{
+    display:flex
+}
+.need{
+text-align: center;
+}
+#footer{
+    border: solid 1px;
+    background-color: black;
+    margin-right: 1000px;
+    padding-left: 20px;
+}
+
+.white{
+    display: flex;
+    margin-right: 40px;
+}
+.fb{
+    display: flex;
+}
+form{
+    background-color: black;
+    justify-content: center;
+    border: solid 10px;
+    margin-left: 400px;
+    margin-right: 600px;
+    padding-left: 50px;
+    padding-right: 20px;
+    position: relative;
+    bottom: 648px;
+    left: 100px;
+}
+.help{
+display: flex;
+}
+.sign{
+    background-color: red;
+    color: white;
+    padding :5px;
+    padding-left: 65px;
+    padding-right: 65px;
+    font-size: medium;
+}
+.sam1{
+position: relative;
+bottom: 30px;
+}
+.sam0{
+    position: relative;
+    bottom: 30px;
+}
+.sam2{
+    position: relative;
+    bottom: 30px;
+    left: 35px;
+}  
+.mail{
+    background-color:rgb(190, 177, 177);
+} 
+#div1{
+    background-image: linear-gradient(black,rgb(63, 8, 8));
+}
+#div2{
+    background-image: linear-gradient(black,rgb(63, 8, 8));
+}
+#div3{
+    background-image: linear-gradient(black,rgb(63, 8, 8));  
+}
